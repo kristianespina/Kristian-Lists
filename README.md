@@ -23,5 +23,12 @@ Icon Theme: [La Capitaine](https://www.gnome-look.org/p/1148695/)
 - Icons: flaticon.com
 - Colors flatuicolors.com/palette/cn
 
+## Tensorflow + GPU
+To install CUDA 10.0 (while having 10.1 installed locally)
+```bash
+conda install cudatoolkit
+conda install cudnn
+pip install tensorflow-gpu
+```
 ## Awesome Lists
 - https://github.com/sindresorhus/awesome
