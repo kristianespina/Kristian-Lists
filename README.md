@@ -13,6 +13,13 @@ Font: Roboto Mono
 "terminal.integrated.fontWeight": "500",
 "editor.fontSize": 12
 ```
+
+Titlebar Settings:
+```json
+"window.menuBarVisibility": "toggle",
+"window.title": " ",
+"window.titleBarStyle": "default"
+```
 ### Distro Settings
 GTK+3 Theme: [macOS 11 GTK+](https://www.opendesktop.org/p/1220826)
 Icon Theme: [La Capitaine](https://www.gnome-look.org/p/1148695/)
